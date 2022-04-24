@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rafahcerqueira   
-- 👀 I’m interested in estágio  
-- 🌱 I’m currently learning  analise e desenvolvimento de sistemas    
+- Rafael Cerqueira
+- Cursando Análise e Desenvolvimento de Sisteamas.
 
 <!---
 rafahcerqueira/rafahcerqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
