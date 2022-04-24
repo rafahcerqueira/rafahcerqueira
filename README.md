@@ -1,5 +1,5 @@
 - Rafael Cerqueira
-- Cursando Análise e Desenvolvimento de Sisteamas.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 <!---
 rafahcerqueira/rafahcerqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
