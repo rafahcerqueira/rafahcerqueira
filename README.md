@@ -1,16 +1,16 @@
-<h3 color="black" align="center">Rafael Cerqueira</h3>
+<h3>Rafael Cerqueira</h3>
 
 ## 
 
-<h4 align="center">E-mail: rafahcerqueira.123@gmail.com</h4>
-<h4 align="center">Cursando Análise e Desenvolvimento de Sistemas</h4>
+<h4>E-mail: rafahcerqueira.123@gmail.com</h4>
+<h4>Cursando Análise e Desenvolvimento de Sistemas</h4>
 
 ## 
 
 <br><div name="banners" align="center">
   <a href="https://github.com/rafahcerqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafahcerqueira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahcerqueira&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafahcerqueira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahcerqueira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block" align="center">
