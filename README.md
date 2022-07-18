@@ -3,7 +3,7 @@
 ## 
 
 <h4>E-mail: rafahcerqueira.123@gmail.com</h4>
-<h4>Cursando Análise e Desenvolvimento de Sistemas</h4>
+<h4>Cursando Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Boituva</h4>
 
 ## 
 
