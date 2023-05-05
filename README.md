@@ -15,7 +15,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahcerqueira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<h3>Tecnologias e Ferramentas</h3>
+##
+  
+<h3 align="center">Tecnologias e Ferramentas</h3>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="rafael-C#" height="65" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
