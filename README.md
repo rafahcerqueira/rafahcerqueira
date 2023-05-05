@@ -5,10 +5,10 @@
   <a href="mailto:rafahcerqueira.123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <h2>Rafael Cerqueira</h2>
-<h3>Bem vindo ao meu perfil!</h3>
+<h3>Bem vindo ao meu perfil! </h3>
 <br>
-<p>> <i>Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo - Campus Boituva</i></p>
-<p>> <i>Estagiando como Desenvolvedor Backend no BNE - Bando Nacional de Empregos</i></p>
+<p>> 📚 <i>Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo - Campus Boituva</i></p>
+<p>> 💼 <i>Estagiando como Desenvolvedor Backend no BNE - Bando Nacional de Empregos</i></p>
 <br><br>
 <div name="banners" align="center">
   <a href="https://github.com/rafahcerqueira">
