@@ -1,24 +1,26 @@
-<h2>Rafael Cerqueira</h2>
-
-<div align="center"> 
+<div> 
+  <a href="https://www.linkedin.com/in/rafahcerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaael1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/229270847993413635" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:rafahcerqueira.123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafahcerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-## 
-
-<br><div name="banners" align="center">
+<h2>Rafael Cerqueira</h2>
+<h3>Bem vindo ao meu perfil!</h3>
+<br>
+<p>> <i>Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo - Campus Boituva</i></p>
+<p>> <i>Estagiando como Desenvolvedor Backend no BNE - Bando Nacional de Empregos</i></p>
+<br><br>
+<div name="banners" align="center">
   <a href="https://github.com/rafahcerqueira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafahcerqueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahcerqueira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ##
-  
 <h3 align="center">Tecnologias e Ferramentas</h3>
-
+<p align="center">
+  <img width="100" src="https://img.icons8.com/?size=512&id=11260&format=png">
+</p>
 <div style="display: inline_block" align="center">
   <img align="center" alt="rafael-C#" height="65" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="rafael-DotNet" height="65" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -34,5 +36,3 @@
   <img align="center" alt="rafael-vscode" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="rafael-visualstudio" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-
-## 
