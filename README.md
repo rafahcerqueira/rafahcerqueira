@@ -8,7 +8,6 @@
 <h3>Bem vindo ao meu perfil! </h3>
 <br>
 <p>> 📚 <i>Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo - Campus Boituva</i></p>
-<p>> 💼 <i>Estagiando como Desenvolvedor Backend no BNE - Bando Nacional de Empregos</i></p>
 <br><br>
 <div name="banners" align="center">
   <a href="https://github.com/rafahcerqueira">
